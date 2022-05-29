@@ -78,13 +78,10 @@ button:active {
 
 .fa-twitter {
   font-size: 1.5rem;
-  padding-left: 40px;
-  padding-right: 40px;
 }
 
 .new-quote-button {
   font-size: 1.5rem;
-  min-width: 180px;
 }
 
 .button-container {
